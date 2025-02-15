@@ -1,7 +1,7 @@
 
 
 # 👋 Hi, I'm **Krishna Kumar** 🚀  
-🎯 **Aspiring Software Developer | Cybersecurity Enthusiast | Tech & Finance Explorer**  
+🎯 **Aspiring Software Developer | Cybersecurity & AI Enthusiast | Tech & Finance Explorer**  
 
 💻 Passionate about **building scalable solutions**, **workflow automation**, and **integrating finance with technology**. Currently, I'm diving deep into **Data Structures & Algorithms**, while aggressively **studying financial markets and emerging tech trends**.  
 
