@@ -36,7 +36,7 @@
 ---
 
 ## 📫 **Let's Connect!** 🤝  
-🔗 [LinkedIn](https://www.linkedin.com/in/kky01) | 🌐 [Portfolio](kky.q24.xyz) | ✉️ Email: **sendtokky@gmail.com**  
+🔗 [LinkedIn](https://www.linkedin.com/in/kky01) | 🌐 [Portfolio](https://kky.q24.xyz) | ✉️ Email: **sendtokky@gmail.com**  
 
 💙 Always open to **collaborations, job opportunities, tech discussions, and startup ideas!** 🚀  
 
