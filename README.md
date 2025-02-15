@@ -1,6 +1,4 @@
-Here's a more refined version of your GitHub profile README with better structure, more emojis, and an engaging tone:  
 
----
 
 # 👋 Hi, I'm **Krishna Kumar** 🚀  
 🎯 **Aspiring Product Developer | Cybersecurity Enthusiast | Tech & Finance Explorer**  
@@ -40,6 +38,3 @@ Here's a more refined version of your GitHub profile README with better structur
 
 💙 Always open to **collaborations, tech discussions, and startup ideas!** 🚀  
 
----
-
-This version makes your profile more engaging and visually appealing while effectively conveying your skills and interests. Let me know if you'd like any modifications! 🚀🔥
