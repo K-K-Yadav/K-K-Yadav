@@ -18,7 +18,12 @@ Version Control: GIT
 
 👀 Interests
 💡 Creating innovative solutions .
-🔗 Integrating finance and technology through data analysis and automation.
+
+🔗 Product development, Ideation to prototyping to scaling .
+
+
+🔗 Integrating finance and technology and the power of automation.
+
 📫 Get in Touch
-Connect with me on LinkedIn or reach out via email: sendtokky@gmail.com
+Connect with me on LinkedIn(/kky01) or reach out via email: sendtokky@gmail.com
 
