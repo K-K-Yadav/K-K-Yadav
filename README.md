@@ -6,8 +6,9 @@
 💻 Passionate about **building scalable solutions**, **workflow automation**, and **integrating finance with technology**. Currently, I'm diving deep into **Data Structures & Algorithms**, while aggressively **studying financial markets and emerging tech trends**.  
 
 🚀 Co-founder of **Q24 Health Tech** | 🏆 **Smart India Hackathon 2024 Finalist**  
-📌 Working on **Blockchain-powered Real Estate Solutions(Escrow Payments) ,
-Reducing wait time for consultations at clinics and hospitals**
+📌 Working on **Blockchain-powered Real Estate Solutions(Escrow Payments)** ,
+
+**Reducing wait time for consultations at clinics and hospitals**
 
 ---
 
